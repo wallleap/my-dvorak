@@ -51,3 +51,8 @@ Karabiner-Elements - Complex Modifications 使用文本编辑器打开
    ![](https://cdn.wallleap.cn/img/pic/illustration/20260718182141500.png?imageSlim)
 
 4. 如果没有成功映射，可以在 PowerToys 选择恢复这个备份文件 `PowerToys/Backup/settings_134288397215974515.ptb` 
+
+## 移动端
+
+- 下载超越输入法，压缩 `themes` 目录下的 `dvorak_pure`，在超越输入法进行导入，主题选择 `Dvarak 朴素`
+- 安卓可以下载同文输入法，把 `dvorak.trime.yaml`、`dvorak.trime.custom.yaml` 复制到 `rime` 目录，主题选用 `Dvarak`
